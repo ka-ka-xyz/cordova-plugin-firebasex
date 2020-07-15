@@ -130,7 +130,7 @@
 				<pod name="Crashlytics" spec="3.14.0"/>
 				<pod name="GoogleSignIn" spec="5.0.2"/>
 				<pod name="GoogleUtilities" spec="6.6.0"/>
-				<pod name="nanopb" spec="0.3.901"/>
+				<pod name="nanopb" spec="0.3.9011"/>
 			</pods>
 		</podspec>
 
